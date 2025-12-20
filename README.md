@@ -6,9 +6,9 @@ A machine learning-driven approach to bank transaction clustering and classifica
 
 ## ⚙️ Algorithm
 
-- 🌀 **K-Means Clustering**
-- 🌳 **Random Forest**
-- 🌲 **Decision Tree**
+- 🌀 **K-Means Clustering.**
+- 🌳 **Random Forest.**
+- 🌲 **Decision Tree.**
 
 ## 🛠️ Technologies Used
 
