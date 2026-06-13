@@ -1,18 +1,33 @@
 # Clustering and Classification Bank Transactions
 
-## ℹ️ About
+## 📌 Deskripsi
 
-A machine learning-driven approach to bank transaction clustering and classification. By analyzing customer demographics and financial activity patterns, this project aims to segment transaction behaviors and detect potential anomalies, providing a foundation for enhanced fraud detection and personalized customer behavioral insights.
+---
 
-## ⚙️ Algorithm
+## 💾 Dataset
 
-- 🌀 **K-Means Clustering.**
-- 🌳 **Random Forest.**
-- 🌲 **Decision Tree.**
+---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- 🌐 **Programming Language:** Python.
-- 🌱 **Environment:** Jupyter Notebook.
-- ⚛️ **Libraries:** NumPy, pandas, Matplotlib, seaborn, Joblib, itertools, scikit-learn, and Yellowbrick.
-- ⚡ **Tool:** Google Colab.
+| Kategori                    | Teknologi yang Digunakan                                                                         |
+| :-------------------------- | :----------------------------------------------------------------------------------------------- |
+| 🌐 **Programming Language** | `Python`                                                                                         |
+| 🌱 **Environment**          | `Jupyter Notebook`                                                                               |
+| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `itertools`, `scikit-learn`, `Yellowbrick`, `Joblib` |
+| ⚡ **Tool**                 | `Google Colab`                                                                                   |
+
+---
+
+## ⚙️ Petunjuk Pengaturan
+
+1. **Prasyarat**
+   - Python 3.11 atau lebih baru.
+   - Git terinstal di komputer.
+
+2. **Clone Repositori**
+
+```bash
+git clone https://github.com/Fikri-Rouzan/clustering-and-classification-bank-transactions.git
+cd clustering-and-classification-bank-transactions
+```
