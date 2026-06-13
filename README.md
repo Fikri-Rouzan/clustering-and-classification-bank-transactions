@@ -10,12 +10,12 @@
 
 ## 🛠️ Tech Stack
 
-| Kategori                    | Teknologi yang Digunakan                                                                         |
-| :-------------------------- | :----------------------------------------------------------------------------------------------- |
-| 🌐 **Programming Language** | `Python`                                                                                         |
-| 🌱 **Environment**          | `Jupyter Notebook`                                                                               |
-| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `itertools`, `scikit-learn`, `Yellowbrick`, `Joblib` |
-| ⚡ **Tool**                 | `Google Colab`                                                                                   |
+| Kategori                    | Teknologi yang Digunakan                                                                            |
+| :-------------------------- | :-------------------------------------------------------------------------------------------------- |
+| 🌐 **Programming Language** | `Python`                                                                                            |
+| 🌱 **Environment**          | `Jupyter Notebook`                                                                                  |
+| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `itertools`, `scikit-learn`,<br>`Yellowbrick`, `Joblib` |
+| ⚡ **Tool**                 | `Google Colab`                                                                                      |
 
 ---
 
